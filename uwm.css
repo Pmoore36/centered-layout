@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(246, 246, 51);
+}
+.footer{
+    background-color: rgb(237, 22, 22);
+}
+.main{
+    background-color: rgb(17, 243, 168);
+}
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+}
